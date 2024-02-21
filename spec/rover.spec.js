@@ -79,4 +79,3 @@ describe("Rover class", function() {
     expect(response.results[1].roverStatus.position).toBe(98765);
   });
 });
-console.log();
